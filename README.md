@@ -1,16 +1,8 @@
-# magic_8_ball
+# 2.5D 8 ball
 
-A new Flutter project.
+## A 8 ball as 2.5D in Flutter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/81427844/189428703-30b5218c-63bd-4532-ad49-1881f7749742.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
